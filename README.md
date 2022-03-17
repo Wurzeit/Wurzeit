@@ -1,6 +1,6 @@
 <h1 align="center">Wurzeit</h1>
 
-# Hi there👋
+<h2>Hi there👋</h2>
 
 It's Wurzeit from Japan.
 
